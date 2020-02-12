@@ -1,1 +1,1 @@
-# pyhton-template-additions
+# python-template-additions
